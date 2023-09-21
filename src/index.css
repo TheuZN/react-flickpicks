@@ -129,6 +129,11 @@ section {
 .gallery a img {
     min-width: 200px;
     border-radius: 2rem;
+    transition: transform 0.4s;
+}
+
+.gallery a:hover img {
+  transform: scale(0.93);
 }
 
 .average {

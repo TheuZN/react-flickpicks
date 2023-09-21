@@ -33,6 +33,9 @@ export default function Footer() {
                     </div>
 
                 </div>
+
+                <span>Made by <a href="https://theuzn.github.io/meuportfolio/">Mateus Melo</a></span>
+
             </div>
         </footer>
     )     

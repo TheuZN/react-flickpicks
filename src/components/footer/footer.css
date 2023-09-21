@@ -1,5 +1,5 @@
 footer {
-    padding-block: 10rem;
+    padding-block: 5rem;
     border-top: 1px solid var(--primary-color);
 }
 
@@ -30,6 +30,16 @@ footer {
 
 .flickpicks-footer img {
     width: 10rem;
+}
+
+span a {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+
+.info-footer {
+    margin-bottom: 5rem;
 }
 
 @media screen and (min-width: 1024px) {

@@ -4,6 +4,7 @@ header {
     padding-block: 0.5rem;
     position: fixed;
     background-color: #fff;
+    z-index: 100;
 }
 
 .wrapper .menu {
